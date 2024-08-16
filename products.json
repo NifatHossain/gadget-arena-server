@@ -1,0 +1,754 @@
+[
+  {
+    "brandName": "Samsung",
+    "modelName": "Galaxy S23",
+    "productImageUrl": "https://adminapi.applegadgetsbd.com/storage/media/large/Galaxy-S22-5G-Bora-Purple-4334.jpg",
+    "description": "The Samsung Galaxy S23 features a 6.1-inch Dynamic AMOLED display, Snapdragon 8 Gen 1 processor, and a 4000mAh battery.",
+    "price": 109999,
+    "category": "Smartphone",
+    "ratings": 4.7,
+    "productCreationDateTime": "2024-08-15 14:30",
+    "specifications": {
+      "ram": "8GB",
+      "rom": "128GB",
+      "display": "6.1-inch Dynamic AMOLED",
+      "processor": "Snapdragon 8 Gen 1",
+      "battery": "4000mAh",
+      "sensors": ["Fingerprint", "Accelerometer", "Gyroscope", "Proximity"]
+    }
+  },
+  {
+    "brandName": "Apple",
+    "modelName": "iPhone 14 Pro",
+    "productImageUrl": "https://adminapi.applegadgetsbd.com/storage/media/large/iPhone-14-Pro-Deep-Purple-7300.jpg",
+    "description": "The iPhone 14 Pro comes with a 6.1-inch Super Retina XDR display, A16 Bionic chip, and a 3200mAh battery.",
+    "price": 145000,
+    "category": "Smartphone",
+    "ratings": 4.8,
+    "productCreationDateTime": "2024-08-15 10:45",
+    "specifications": {
+      "ram": "6GB",
+      "rom": "128GB",
+      "display": "6.1-inch Super Retina XDR",
+      "processor": "A16 Bionic",
+      "battery": "3200mAh",
+      "sensors": ["Face ID", "Accelerometer", "Gyroscope", "Barometer"]
+    }
+  },
+  {
+    "brandName": "Xiaomi",
+    "modelName": "Redmi Note 12 Pro",
+    "productImageUrl": "https://adminapi.applegadgetsbd.com/storage/media/large/Redmi-Note-12-Pro-5G-Sky-Blue-5766.jpg",
+    "description": "Xiaomi Redmi Note 12 Pro features a 6.67-inch AMOLED display, MediaTek Dimensity 920 processor, and a 5000mAh battery.",
+    "price": 38999,
+    "category": "Smartphone",
+    "ratings": 4.5,
+    "productCreationDateTime": "2024-08-14 16:20",
+    "specifications": {
+      "ram": "8GB",
+      "rom": "128GB",
+      "display": "6.67-inch AMOLED",
+      "processor": "MediaTek Dimensity 920",
+      "battery": "5000mAh",
+      "sensors": ["Fingerprint", "Accelerometer", "Gyroscope", "Proximity"]
+    }
+  },
+  {
+    "brandName": "Realme",
+    "modelName": "Realme 11 Pro",
+    "productImageUrl": "https://adminapi.applegadgetsbd.com/storage/media/large/realme-11-Pro-5G-Oasis-Green-4733.jpg",
+    "description": "Realme 11 Pro comes with a 6.4-inch Super AMOLED display, MediaTek Dimensity 920 processor, and a 4500mAh battery.",
+    "price": 32999,
+    "category": "Smartphone",
+    "ratings": 4.4,
+    "productCreationDateTime": "2024-08-14 11:10",
+    "specifications": {
+      "ram": "8GB",
+      "rom": "128GB",
+      "display": "6.4-inch Super AMOLED",
+      "processor": "MediaTek Dimensity 920",
+      "battery": "4500mAh",
+      "sensors": ["Fingerprint", "Accelerometer", "Gyroscope", "Proximity"]
+    }
+  },
+  {
+    "brandName": "Oppo",
+    "modelName": "Oppo Reno8",
+    "productImageUrl": "https://adminapi.applegadgetsbd.com/storage/media/large/OPPO-Reno8-T-5G-Sunrise-Gold-8278.jpg",
+    "description": "Oppo Reno8 features a 6.43-inch AMOLED display, Snapdragon 870 processor, and a 4500mAh battery.",
+    "price": 42999,
+    "category": "Smartphone",
+    "ratings": 4.6,
+    "productCreationDateTime": "2024-08-13 14:50",
+    "specifications": {
+      "ram": "8GB",
+      "rom": "128GB",
+      "display": "6.43-inch AMOLED",
+      "processor": "Snapdragon 870",
+      "battery": "4500mAh",
+      "sensors": ["Fingerprint", "Accelerometer", "Gyroscope", "Proximity"]
+    }
+  },
+  {
+    "brandName": "Samsung",
+    "modelName": "Galaxy A54",
+    "productImageUrl": "https://adminapi.applegadgetsbd.com/storage/media/large/Galaxy-A54-5G-Lime-6998.jpg",
+    "description": "The Samsung Galaxy A54 features a 6.5-inch Super AMOLED display, Exynos 1280 processor, and a 5000mAh battery.",
+    "price": 32999,
+    "category": "Smartphone",
+    "ratings": 4.3,
+    "productCreationDateTime": "2024-08-13 09:40",
+    "specifications": {
+      "ram": "6GB",
+      "rom": "128GB",
+      "display": "6.5-inch Super AMOLED",
+      "processor": "Exynos 1280",
+      "battery": "5000mAh",
+      "sensors": ["Fingerprint", "Accelerometer", "Gyroscope", "Proximity"]
+    }
+  },
+  {
+    "brandName": "Apple",
+    "modelName": "iPhone 13 Mini",
+    "productImageUrl": "https://adminapi.applegadgetsbd.com/storage/media/large/3410-92986.jpg",
+    "description": "The iPhone 13 Mini features a 5.4-inch Super Retina XDR display, A15 Bionic chip, and a 2406mAh battery.",
+    "price": 115000,
+    "category": "Smartphone",
+    "ratings": 4.6,
+    "productCreationDateTime": "2024-08-12 18:30",
+    "specifications": {
+      "ram": "4GB",
+      "rom": "128GB",
+      "display": "5.4-inch Super Retina XDR",
+      "processor": "A15 Bionic",
+      "battery": "2406mAh",
+      "sensors": ["Face ID", "Accelerometer", "Gyroscope", "Barometer"]
+    }
+  },
+  {
+    "brandName": "Xiaomi",
+    "modelName": "Mi 11 Ultra",
+    "productImageUrl": "https://adminapi.applegadgetsbd.com/storage/media/large/2675-93346.jpg",
+    "description": "Xiaomi Mi 11 Ultra features a 6.81-inch AMOLED display, Snapdragon 888 processor, and a 5000mAh battery.",
+    "price": 85000,
+    "category": "Smartphone",
+    "ratings": 4.7,
+    "productCreationDateTime": "2024-08-12 14:00",
+    "specifications": {
+      "ram": "12GB",
+      "rom": "256GB",
+      "display": "6.81-inch AMOLED",
+      "processor": "Snapdragon 888",
+      "battery": "5000mAh",
+      "sensors": ["Fingerprint", "Accelerometer", "Gyroscope", "Proximity"]
+    }
+  },
+  {
+    "brandName": "Realme",
+    "modelName": "Realme GT Neo 2",
+    "productImageUrl": "https://example.com/images/realme-gt-neo2.jpg",
+    "description": "Realme GT Neo 2 features a 6.62-inch Super AMOLED display, Snapdragon 870 processor, and a 5000mAh battery.",
+    "price": 39999,
+    "category": "Smartphone",
+    "ratings": 4.5,
+    "productCreationDateTime": "2024-08-11 16:40",
+    "specifications": {
+      "ram": "8GB",
+      "rom": "128GB",
+      "display": "6.62-inch Super AMOLED",
+      "processor": "Snapdragon 870",
+      "battery": "5000mAh",
+      "sensors": ["Fingerprint", "Accelerometer", "Gyroscope", "Proximity"]
+    }
+  },
+  {
+    "brandName": "Oppo",
+    "modelName": "Oppo F19 Pro",
+    "productImageUrl": "https://example.com/images/oppo-f19-pro.jpg",
+    "description": "Oppo F19 Pro comes with a 6.43-inch AMOLED display, MediaTek Helio P95 processor, and a 4310mAh battery.",
+    "price": 29999,
+    "category": "Smartphone",
+    "ratings": 4.2,
+    "productCreationDateTime": "2024-08-11 10:25",
+    "specifications": {
+      "ram": "8GB",
+      "rom": "128GB",
+      "display": "6.43-inch AMOLED",
+      "processor": "MediaTek Helio P95",
+      "battery": "4310mAh",
+      "sensors": ["Fingerprint", "Accelerometer", "Gyroscope", "Proximity"]
+    }
+  },
+  {
+    "brandName": "Samsung",
+    "modelName": "Galaxy M32",
+    "productImageUrl": "https://example.com/images/samsung-galaxy-m32.jpg",
+    "description": "Samsung Galaxy M32 features a 6.4-inch Super AMOLED display, Helio G80 processor, and a 6000mAh battery.",
+    "price": 24999,
+    "category": "Smartphone",
+    "ratings": 4.1,
+    "productCreationDateTime": "2024-08-10 14:15",
+    "specifications": {
+      "ram": "6GB",
+      "rom": "128GB",
+      "display": "6.4-inch Super AMOLED",
+      "processor": "Helio G80",
+      "battery": "6000mAh",
+      "sensors": ["Fingerprint", "Accelerometer", "Gyroscope", "Proximity"]
+    }
+  },
+  {
+    "brandName": "Apple",
+    "modelName": "iPhone SE (2022)",
+    "productImageUrl": "https://example.com/images/iphone-se-2022.jpg",
+    "description": "The iPhone SE (2022) features a 4.7-inch Retina IPS LCD display, A15 Bionic chip, and a 1821mAh battery.",
+    "price": 79000,
+    "category": "Smartphone",
+    "ratings": 4.4,
+    "productCreationDateTime": "2024-08-10 09:50",
+    "specifications": {
+      "ram": "4GB",
+      "rom": "64GB",
+      "display": "4.7-inch Retina IPS LCD",
+      "processor": "A15 Bionic",
+      "battery": "1821mAh",
+      "sensors": ["Touch ID", "Accelerometer", "Gyroscope", "Barometer"]
+    }
+  },
+  {
+    "brandName": "Xiaomi",
+    "modelName": "Poco X4 Pro",
+    "productImageUrl": "https://example.com/images/poco-x4-pro.jpg",
+    "description": "Poco X4 Pro features a 6.67-inch AMOLED display, Snapdragon 695 processor, and a 5000mAh battery.",
+    "price": 31999,
+    "category": "Smartphone",
+    "ratings": 4.3,
+    "productCreationDateTime": "2024-08-09 17:30",
+    "specifications": {
+      "ram": "8GB",
+      "rom": "128GB",
+      "display": "6.67-inch AMOLED",
+      "processor": "Snapdragon 695",
+      "battery": "5000mAh",
+      "sensors": ["Fingerprint", "Accelerometer", "Gyroscope", "Proximity"]
+    }
+  },
+  {
+    "brandName": "Realme",
+    "modelName": "Realme Narzo 50A",
+    "productImageUrl": "https://example.com/images/realme-narzo-50a.jpg",
+    "description": "Realme Narzo 50A features a 6.5-inch IPS LCD display, Helio G85 processor, and a 6000mAh battery.",
+    "price": 17999,
+    "category": "Smartphone",
+    "ratings": 4.0,
+    "productCreationDateTime": "2024-08-09 11:45",
+    "specifications": {
+      "ram": "4GB",
+      "rom": "64GB",
+      "display": "6.5-inch IPS LCD",
+      "processor": "Helio G85",
+      "battery": "6000mAh",
+      "sensors": ["Fingerprint", "Accelerometer", "Gyroscope", "Proximity"]
+    }
+  },
+  {
+    "brandName": "Oppo",
+    "modelName": "Oppo A74",
+    "productImageUrl": "https://example.com/images/oppo-a74.jpg",
+    "description": "Oppo A74 features a 6.43-inch AMOLED display, Snapdragon 662 processor, and a 5000mAh battery.",
+    "price": 27999,
+    "category": "Smartphone",
+    "ratings": 4.1,
+    "productCreationDateTime": "2024-08-08 15:20",
+    "specifications": {
+      "ram": "6GB",
+      "rom": "128GB",
+      "display": "6.43-inch AMOLED",
+      "processor": "Snapdragon 662",
+      "battery": "5000mAh",
+      "sensors": ["Fingerprint", "Accelerometer", "Gyroscope", "Proximity"]
+    }
+  },
+  {
+    "brandName": "Samsung",
+    "modelName": "Galaxy Z Fold 4",
+    "productImageUrl": "https://example.com/images/samsung-galaxy-z-fold-4.jpg",
+    "description": "Samsung Galaxy Z Fold 4 features a 7.6-inch Foldable Dynamic AMOLED display, Snapdragon 8+ Gen 1 processor, and a 4400mAh battery.",
+    "price": 229999,
+    "category": "Smartphone",
+    "ratings": 4.8,
+    "productCreationDateTime": "2024-08-07 18:00",
+    "specifications": {
+      "ram": "12GB",
+      "rom": "256GB",
+      "display": "7.6-inch Foldable Dynamic AMOLED",
+      "processor": "Snapdragon 8+ Gen 1",
+      "battery": "4400mAh",
+      "sensors": ["Fingerprint", "Accelerometer", "Gyroscope", "Proximity"]
+    }
+  },
+  {
+    "brandName": "HP",
+    "modelName": "HP Pavilion x360",
+    "productImageUrl": "https://example.com/images/hp-pavilion-x360.jpg",
+    "description": "HP Pavilion x360 features a 14-inch Full HD IPS touch display, Intel Core i5 11th Gen, and a 3-cell battery.",
+    "price": 78000,
+    "category": "Laptop",
+    "ratings": 4.5,
+    "productCreationDateTime": "2024-08-07 10:10",
+    "specifications": {
+      "ram": "8GB",
+      "rom": "512GB SSD",
+      "display": "14-inch Full HD IPS touch",
+      "processor": "Intel Core i5 11th Gen",
+      "battery": "3-cell 43Wh",
+      "operatingSystem": "Windows 11",
+      "sensors": ["Fingerprint", "Accelerometer"]
+    }
+  },
+  {
+    "brandName": "Lenovo",
+    "modelName": "Lenovo IdeaPad 5",
+    "productImageUrl": "https://example.com/images/lenovo-ideapad-5.jpg",
+    "description": "Lenovo IdeaPad 5 features a 15.6-inch Full HD display, AMD Ryzen 5 5500U, and a 57Wh battery.",
+    "price": 70000,
+    "category": "Laptop",
+    "ratings": 4.4,
+    "productCreationDateTime": "2024-08-06 13:15",
+    "specifications": {
+      "ram": "8GB",
+      "rom": "512GB SSD",
+      "display": "15.6-inch Full HD",
+      "processor": "AMD Ryzen 5 5500U",
+      "battery": "57Wh",
+      "operatingSystem": "Windows 11",
+      "sensors": ["Fingerprint", "Accelerometer"]
+    }
+  },
+  {
+    "brandName": "Acer",
+    "modelName": "Acer Aspire 7",
+    "productImageUrl": "https://example.com/images/acer-aspire-7.jpg",
+    "description": "Acer Aspire 7 features a 15.6-inch Full HD IPS display, Intel Core i7 10th Gen, and a 4-cell battery.",
+    "price": 95000,
+    "category": "Laptop",
+    "ratings": 4.6,
+    "productCreationDateTime": "2024-08-06 08:30",
+    "specifications": {
+      "ram": "16GB",
+      "rom": "1TB SSD",
+      "display": "15.6-inch Full HD IPS",
+      "processor": "Intel Core i7 10th Gen",
+      "battery": "4-cell 48Wh",
+      "operatingSystem": "Windows 10",
+      "sensors": ["Fingerprint"]
+    }
+  },
+  {
+    "brandName": "Apple",
+    "modelName": "MacBook Air M2",
+    "productImageUrl": "https://example.com/images/macbook-air-m2.jpg",
+    "description": "Apple MacBook Air M2 features a 13.6-inch Liquid Retina display, Apple M2 chip, and a 52.6Wh battery.",
+    "price": 160000,
+    "category": "Laptop",
+    "ratings": 4.9,
+    "productCreationDateTime": "2024-08-05 17:45",
+    "specifications": {
+      "ram": "8GB",
+      "rom": "256GB SSD",
+      "display": "13.6-inch Liquid Retina",
+      "processor": "Apple M2",
+      "battery": "52.6Wh",
+      "operatingSystem": "macOS Monterey",
+      "sensors": ["Fingerprint", "Ambient Light Sensor"]
+    }
+  },
+  {
+    "brandName": "Asus",
+    "modelName": "Asus ROG Zephyrus G14",
+    "productImageUrl": "https://example.com/images/asus-rog-zephyrus-g14.jpg",
+    "description": "Asus ROG Zephyrus G14 features a 14-inch QHD display, AMD Ryzen 9 5900HS, and a 76Wh battery.",
+    "price": 165000,
+    "category": "Laptop",
+    "ratings": 4.8,
+    "productCreationDateTime": "2024-08-05 11:20",
+    "specifications": {
+      "ram": "16GB",
+      "rom": "1TB SSD",
+      "display": "14-inch QHD",
+      "processor": "AMD Ryzen 9 5900HS",
+      "battery": "76Wh",
+      "operatingSystem": "Windows 11",
+      "sensors": ["Fingerprint", "Accelerometer"]
+    }
+  },
+  {
+    "brandName": "HP",
+    "modelName": "HP Spectre x360",
+    "productImageUrl": "https://example.com/images/hp-spectre-x360.jpg",
+    "description": "HP Spectre x360 features a 13.3-inch 4K OLED touch display, Intel Core i7 12th Gen, and a 4-cell battery.",
+    "price": 175000,
+    "category": "Laptop",
+    "ratings": 4.7,
+    "productCreationDateTime": "2024-08-04 16:35",
+    "specifications": {
+      "ram": "16GB",
+      "rom": "1TB SSD",
+      "display": "13.3-inch 4K OLED touch",
+      "processor": "Intel Core i7 12th Gen",
+      "battery": "4-cell 60Wh",
+      "operatingSystem": "Windows 11",
+      "sensors": ["Fingerprint", "Accelerometer", "Ambient Light Sensor"]
+    }
+  },
+  {
+    "brandName": "Lenovo",
+    "modelName": "Lenovo Legion 5",
+    "productImageUrl": "https://example.com/images/lenovo-legion-5.jpg",
+    "description": "Lenovo Legion 5 features a 15.6-inch Full HD display, AMD Ryzen 7 5800H, and an 80Wh battery.",
+    "price": 135000,
+    "category": "Laptop",
+    "ratings": 4.6,
+    "productCreationDateTime": "2024-08-04 09:55",
+    "specifications": {
+      "ram": "16GB",
+      "rom": "1TB SSD",
+      "display": "15.6-inch Full HD",
+      "processor": "AMD Ryzen 7 5800H",
+      "battery": "80Wh",
+      "operatingSystem": "Windows 11",
+      "sensors": ["Fingerprint"]
+    }
+  },
+  {
+    "brandName": "Acer",
+    "modelName": "Acer Swift 3",
+    "productImageUrl": "https://example.com/images/acer-swift-3.jpg",
+    "description": "Acer Swift 3 features a 14-inch Full HD IPS display, Intel Core i5 11th Gen, and a 4-cell battery.",
+    "price": 65000,
+    "category": "Laptop",
+    "ratings": 4.4,
+    "productCreationDateTime": "2024-08-03 12:25",
+    "specifications": {
+      "ram": "8GB",
+      "rom": "512GB SSD",
+      "display": "14-inch Full HD IPS",
+      "processor": "Intel Core i5 11th Gen",
+      "battery": "4-cell 48Wh",
+      "operatingSystem": "Windows 10",
+      "sensors": ["Fingerprint"]
+    }
+  },
+  {
+    "brandName": "Apple",
+    "modelName": "MacBook Pro M2",
+    "productImageUrl": "https://example.com/images/macbook-pro-m2.jpg",
+    "description": "Apple MacBook Pro M2 features a 14-inch Liquid Retina XDR display, Apple M2 chip, and a 70Wh battery.",
+    "price": 230000,
+    "category": "Laptop",
+    "ratings": 4.9,
+    "productCreationDateTime": "2024-08-03 08:45",
+    "specifications": {
+      "ram": "16GB",
+      "rom": "512GB SSD",
+      "display": "14-inch Liquid Retina XDR",
+      "processor": "Apple M2",
+      "battery": "70Wh",
+      "operatingSystem": "macOS Monterey",
+      "sensors": ["Fingerprint", "Ambient Light Sensor"]
+    }
+  },
+  {
+    "brandName": "Asus",
+    "modelName": "Asus VivoBook S14",
+    "productImageUrl": "https://example.com/images/asus-vivobook-s14.jpg",
+    "description": "Asus VivoBook S14 features a 14-inch Full HD display, Intel Core i5 12th Gen, and a 3-cell battery.",
+    "price": 88000,
+    "category": "Laptop",
+    "ratings": 4.5,
+    "productCreationDateTime": "2024-08-02 14:50",
+    "specifications": {
+      "ram": "8GB",
+      "rom": "512GB SSD",
+      "display": "14-inch Full HD",
+      "processor": "Intel Core i5 12th Gen",
+      "battery": "3-cell 42Wh",
+      "operatingSystem": "Windows 11",
+      "sensors": ["Fingerprint", "Accelerometer"]
+    }
+  },
+  {
+    "brandName": "HP",
+    "modelName": "HP Envy 13",
+    "productImageUrl": "https://example.com/images/hp-envy-13.jpg",
+    "description": "HP Envy 13 features a 13.3-inch Full HD IPS display, Intel Core i7 11th Gen, and a 4-cell battery.",
+    "price": 115000,
+    "category": "Laptop",
+    "ratings": 4.7,
+    "productCreationDateTime": "2024-08-02 09:05",
+    "specifications": {
+      "ram": "16GB",
+      "rom": "1TB SSD",
+      "display": "13.3-inch Full HD IPS",
+      "processor": "Intel Core i7 11th Gen",
+      "battery": "4-cell 51Wh",
+      "operatingSystem": "Windows 11",
+      "sensors": ["Fingerprint", "Ambient Light Sensor"]
+    }
+  },
+  {
+    "brandName": "Lenovo",
+    "modelName": "Lenovo Yoga 7i",
+    "productImageUrl": "https://example.com/images/lenovo-yoga-7i.jpg",
+    "description": "Lenovo Yoga 7i features a 14-inch Full HD touch display, Intel Core i5 11th Gen, and a 4-cell battery.",
+    "price": 92000,
+    "category": "Laptop",
+    "ratings": 4.6,
+    "productCreationDateTime": "2024-08-01 17:00",
+    "specifications": {
+      "ram": "8GB",
+      "rom": "512GB SSD",
+      "display": "14-inch Full HD touch",
+      "processor": "Intel Core i5 11th Gen",
+      "battery": "4-cell 60Wh",
+      "operatingSystem": "Windows 11",
+      "sensors": ["Fingerprint", "Accelerometer"]
+    }
+  },
+  {
+    "brandName": "Amazfit",
+    "modelName": "Amazfit GTR 3 Pro",
+    "productImageUrl": "https://example.com/images/amazfit-gtr-3-pro.jpg",
+    "description": "Amazfit GTR 3 Pro features a 1.45-inch AMOLED display, 450mAh battery, and 5 ATM water resistance.",
+    "price": 18500,
+    "category": "Smartwatch",
+    "ratings": 4.5,
+    "productCreationDateTime": "2024-08-01 14:30",
+    "specifications": {
+      "displayType": "AMOLED",
+      "displaySize": "1.45-inch",
+      "battery": "450mAh",
+      "waterResistance": "5 ATM",
+      "features": ["Heart Rate Monitor", "SpO2 Monitor", "Sleep Tracking"],
+      "sensors": ["Accelerometer", "Gyroscope", "Barometer"]
+    }
+  },
+  {
+    "brandName": "Apple",
+    "modelName": "Apple Watch Series 8",
+    "productImageUrl": "https://example.com/images/apple-watch-series-8.jpg",
+    "description": "Apple Watch Series 8 features a 1.9-inch LTPO OLED display, 309mAh battery, and IP6X water resistance.",
+    "price": 55000,
+    "category": "Smartwatch",
+    "ratings": 4.8,
+    "productCreationDateTime": "2024-07-31 09:20",
+    "specifications": {
+      "displayType": "LTPO OLED",
+      "displaySize": "1.9-inch",
+      "battery": "309mAh",
+      "waterResistance": "IP6X",
+      "features": ["Heart Rate Monitor", "ECG", "SpO2 Monitor"],
+      "sensors": ["Accelerometer", "Gyroscope", "Barometer"]
+    }
+  },
+  {
+    "brandName": "Samsung",
+    "modelName": "Samsung Galaxy Watch 5",
+    "productImageUrl": "https://example.com/images/samsung-galaxy-watch-5.jpg",
+    "description": "Samsung Galaxy Watch 5 features a 1.4-inch Super AMOLED display, 410mAh battery, and 5 ATM water resistance.",
+    "price": 32000,
+    "category": "Smartwatch",
+    "ratings": 4.6,
+    "productCreationDateTime": "2024-07-30 16:40",
+    "specifications": {
+      "displayType": "Super AMOLED",
+      "displaySize": "1.4-inch",
+      "battery": "410mAh",
+      "waterResistance": "5 ATM",
+      "features": [
+        "Heart Rate Monitor",
+        "Blood Pressure Monitor",
+        "SpO2 Monitor"
+      ],
+      "sensors": ["Accelerometer", "Gyroscope", "Barometer"]
+    }
+  },
+  {
+    "brandName": "Huawei",
+    "modelName": "Huawei Watch GT 3",
+    "productImageUrl": "https://example.com/images/huawei-watch-gt-3.jpg",
+    "description": "Huawei Watch GT 3 features a 1.43-inch AMOLED display, 455mAh battery, and 5 ATM water resistance.",
+    "price": 26000,
+    "category": "Smartwatch",
+    "ratings": 4.5,
+    "productCreationDateTime": "2024-07-30 12:55",
+    "specifications": {
+      "displayType": "AMOLED",
+      "displaySize": "1.43-inch",
+      "battery": "455mAh",
+      "waterResistance": "5 ATM",
+      "features": ["Heart Rate Monitor", "SpO2 Monitor", "Sleep Tracking"],
+      "sensors": ["Accelerometer", "Gyroscope", "Barometer"]
+    }
+  },
+
+  {
+    "brandName": "Amazfit",
+    "modelName": "Amazfit Bip U Pro",
+    "productImageUrl": "https://example.com/images/amazfit-bip-u-pro.jpg",
+    "description": "Amazfit Bip U Pro features a 1.43-inch TFT display, 230mAh battery, and 5 ATM water resistance.",
+    "price": 4500,
+    "category": "Smartwatch",
+    "ratings": 4.3,
+    "productCreationDateTime": "2024-08-01 08:15",
+    "specifications": {
+      "displayType": "TFT",
+      "displaySize": "1.43-inch",
+      "battery": "230mAh",
+      "waterResistance": "5 ATM",
+      "features": [
+        "Heart Rate Monitor",
+        "SpO2 Monitor",
+        "Sleep Tracking",
+        "Built-in GPS"
+      ],
+      "sensors": ["Accelerometer", "Gyroscope"]
+    }
+  },
+  {
+    "brandName": "Mibro",
+    "modelName": "Mibro Air",
+    "productImageUrl": "https://example.com/images/mibro-air.jpg",
+    "description": "Mibro Air features a 1.28-inch TFT display, 200mAh battery, and IP68 water resistance.",
+    "price": 3200,
+    "category": "Smartwatch",
+    "ratings": 4.1,
+    "productCreationDateTime": "2024-07-29 14:30",
+    "specifications": {
+      "displayType": "TFT",
+      "displaySize": "1.28-inch",
+      "battery": "200mAh",
+      "waterResistance": "IP68",
+      "features": ["Heart Rate Monitor", "Sleep Tracking"],
+      "sensors": ["Accelerometer", "Gyroscope"]
+    }
+  },
+  {
+    "brandName": "Fitbit",
+    "modelName": "Fitbit Versa 3",
+    "productImageUrl": "https://example.com/images/fitbit-versa-3.jpg",
+    "description": "Fitbit Versa 3 features a 1.58-inch AMOLED display, 300mAh battery, and 50M water resistance.",
+    "price": 23000,
+    "category": "Smartwatch",
+    "ratings": 4.6,
+    "productCreationDateTime": "2024-07-29 10:45",
+    "specifications": {
+      "displayType": "AMOLED",
+      "displaySize": "1.58-inch",
+      "battery": "300mAh",
+      "waterResistance": "50M",
+      "features": [
+        "Heart Rate Monitor",
+        "SpO2 Monitor",
+        "Sleep Tracking",
+        "Built-in GPS"
+      ],
+      "sensors": ["Accelerometer", "Gyroscope"]
+    }
+  },
+  {
+    "brandName": "Garmin",
+    "modelName": "Garmin Venu 2",
+    "productImageUrl": "https://example.com/images/garmin-venu-2.jpg",
+    "description": "Garmin Venu 2 features a 1.3-inch AMOLED display, 416mAh battery, and 5 ATM water resistance.",
+    "price": 45000,
+    "category": "Smartwatch",
+    "ratings": 4.7,
+    "productCreationDateTime": "2024-07-28 09:50",
+    "specifications": {
+      "displayType": "AMOLED",
+      "displaySize": "1.3-inch",
+      "battery": "416mAh",
+      "waterResistance": "5 ATM",
+      "features": [
+        "Heart Rate Monitor",
+        "SpO2 Monitor",
+        "Sleep Tracking",
+        "Built-in GPS"
+      ],
+      "sensors": ["Accelerometer", "Gyroscope"]
+    }
+  },
+  {
+    "brandName": "Huawei",
+    "modelName": "Huawei Watch Fit",
+    "productImageUrl": "https://example.com/images/huawei-watch-fit.jpg",
+    "description": "Huawei Watch Fit features a 1.64-inch AMOLED display, 180mAh battery, and 5 ATM water resistance.",
+    "price": 9500,
+    "category": "Smartwatch",
+    "ratings": 4.4,
+    "productCreationDateTime": "2024-07-28 15:10",
+    "specifications": {
+      "displayType": "AMOLED",
+      "displaySize": "1.64-inch",
+      "battery": "180mAh",
+      "waterResistance": "5 ATM",
+      "features": ["Heart Rate Monitor", "SpO2 Monitor", "Sleep Tracking"],
+      "sensors": ["Accelerometer", "Gyroscope"]
+    }
+  },
+  {
+    "brandName": "Mibro",
+    "modelName": "Mibro Lite",
+    "productImageUrl": "https://example.com/images/mibro-lite.jpg",
+    "description": "Mibro Lite features a 1.3-inch AMOLED display, 230mAh battery, and IP68 water resistance.",
+    "price": 4000,
+    "category": "Smartwatch",
+    "ratings": 4.2,
+    "productCreationDateTime": "2024-07-27 17:20",
+    "specifications": {
+      "displayType": "AMOLED",
+      "displaySize": "1.3-inch",
+      "battery": "230mAh",
+      "waterResistance": "IP68",
+      "features": ["Heart Rate Monitor", "Sleep Tracking"],
+      "sensors": ["Accelerometer", "Gyroscope"]
+    }
+  },
+  {
+    "brandName": "Garmin",
+    "modelName": "Garmin Forerunner 245",
+    "productImageUrl": "https://example.com/images/garmin-forerunner-245.jpg",
+    "description": "Garmin Forerunner 245 features a 1.2-inch MIP display, 300mAh battery, and 5 ATM water resistance.",
+    "price": 37000,
+    "category": "Smartwatch",
+    "ratings": 4.6,
+    "productCreationDateTime": "2024-07-27 08:05",
+    "specifications": {
+      "displayType": "MIP",
+      "displaySize": "1.2-inch",
+      "battery": "300mAh",
+      "waterResistance": "5 ATM",
+      "features": ["Heart Rate Monitor", "Sleep Tracking", "Built-in GPS"],
+      "sensors": ["Accelerometer", "Gyroscope"]
+    }
+  },
+  {
+    "brandName": "Fitbit",
+    "modelName": "Fitbit Charge 5",
+    "productImageUrl": "https://example.com/images/fitbit-charge-5.jpg",
+    "description": "Fitbit Charge 5 features a 1.04-inch AMOLED display, 168mAh battery, and 50M water resistance.",
+    "price": 15000,
+    "category": "Smartwatch",
+    "ratings": 4.5,
+    "productCreationDateTime": "2024-07-26 12:35",
+    "specifications": {
+      "displayType": "AMOLED",
+      "displaySize": "1.04-inch",
+      "battery": "168mAh",
+      "waterResistance": "50M",
+      "features": ["Heart Rate Monitor", "SpO2 Monitor", "Sleep Tracking"],
+      "sensors": ["Accelerometer", "Gyroscope"]
+    }
+  }
+]

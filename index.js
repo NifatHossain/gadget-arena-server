@@ -2,13 +2,13 @@ const express = require('express')
 const app = express()
 require('dotenv').config()
 var cors = require('cors')
-const port = process.env.PORT || 3000
+const port = process.env.PORT || 5000
 
 app.use(express.json())
 app.use(cors({
-    origin:[
-        'http://localhost:5173/',
-    ]
+    origin:"*",
+    methods:"GET,PUT,PATCH,POST,DELETE"
+    
 }))
 
 
@@ -26,6 +26,42 @@ const client = new MongoClient(uri, {
 
 async function run() {
   try {
+    const database = client.db("gadget-arena");
+    const productCollection = database.collection("products");
+    app.get('/products', async(req, res) => {
+        const category= req.query.category;
+        const brandName= req.query.brandName;
+        console.log({brandName,category})
+        let query={}
+        if(brandName==='null' && category==='null'){
+            query={}
+        }
+        else if(brandName==='null' && category !== 'null'){
+            query= {category: category}
+        }else{
+            query = {brandName: brandName, category:category}
+        }
+        const page = parseInt(req.query.page) || 1;  
+        const limit = parseInt(req.query.limit) || 6
+        const skip = (page - 1) * limit;
+        const products =await productCollection.find(query).skip(skip).limit(limit).toArray();
+        const total = await productCollection.countDocuments(query);
+        console.log(products)
+        res.json({
+            products,
+            currentPage: page,
+            totalPages: Math.ceil(total / limit),
+            totalItems: total,
+        });
+        // res.send(result)
+        // console.log({category,brandName})
+        // console.log(result)
+      })
+    app.get('/getallproducts',async(req,res)=>{
+        const result = await productCollection.find().toArray();
+        res.send(result)
+        console.log(result)
+    })  
     // Connect the client to the server	(optional starting in v4.7)
     // await client.connect();
     // Send a ping to confirm a successful connection
@@ -38,9 +74,7 @@ async function run() {
 }
 run().catch(console.dir);
 
-app.get('/', (req, res) => {
-  res.send('Hello World!')
-})
+
 
 app.listen(port, () => {
   console.log(`Example app listening on port ${port}`)
