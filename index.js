@@ -34,15 +34,29 @@ async function run() {
         const sorting= req.query.sort;
         const priceLowerLimit= parseInt(req.query.priceLowerLimit) 
         const priceUpperLimit=parseInt(req.query.priceUpperLimit) 
-        console.log({brandName,category,priceLowerLimit,priceUpperLimit})
+        const searchKey= req.query.searchKey;
+        console.log({brandName,category,priceLowerLimit,priceUpperLimit,searchKey})
+        let searchItem='.*'
+        if(searchKey!=='null'){
+            searchItem= searchKey;
+        }
         let query={}
         if(category==='null'){
-            query={}
+            query={$or: [
+                {modelName: { $regex: searchItem , $options: 'i'}},
+                {brandName: { $regex: searchItem , $options: 'i'}}
+            ]}
         }
         else if(brandName==='null' && category !== 'null'){
-            query= {category: category, price:{$gte: priceLowerLimit, $lte: priceUpperLimit }}
+            query= {category: category, price:{$gte: priceLowerLimit, $lte: priceUpperLimit}, $or: [
+                {modelName: { $regex: searchItem , $options: 'i'}},
+                {brandName: { $regex: searchItem , $options: 'i'}}
+            ]}
         }else{
-            query = {brandName: brandName, category:category, price:{$gte: priceLowerLimit, $lte: priceUpperLimit }}
+            query = {brandName: brandName, category:category, price:{$gte: priceLowerLimit, $lte: priceUpperLimit }, $or: [
+                {modelName: { $regex: searchItem , $options: 'i'}},
+                {brandName: { $regex: searchItem , $options: 'i'}}
+            ] }
         }
         let options={}
         if(sorting!=='null'){
@@ -78,10 +92,18 @@ async function run() {
         // console.log({category,brandName})
         // console.log(result)
       })
+    //   db.collection.find({ field: { $regex: searchKey } }).toArray
+
     app.get('/getallproducts',async(req,res)=>{
         const result = await productCollection.find().toArray();
         res.send(result)
         console.log(result)
+    })  
+    app.get('/productDetails/:id',async(req,res)=>{
+        const newId= req.params.id;
+        const query = { _id: new ObjectId(newId) };
+        const result= await productCollection.findOne(query);
+        res.send(result)
     })  
     // Connect the client to the server	(optional starting in v4.7)
     // await client.connect();
