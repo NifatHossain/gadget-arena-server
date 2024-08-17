@@ -31,21 +31,42 @@ async function run() {
     app.get('/products', async(req, res) => {
         const category= req.query.category;
         const brandName= req.query.brandName;
-        console.log({brandName,category})
+        const sorting= req.query.sort;
+        const priceLowerLimit= parseInt(req.query.priceLowerLimit) 
+        const priceUpperLimit=parseInt(req.query.priceUpperLimit) 
+        console.log({brandName,category,priceLowerLimit,priceUpperLimit})
         let query={}
-        if(brandName==='null' && category==='null'){
+        if(category==='null'){
             query={}
         }
         else if(brandName==='null' && category !== 'null'){
-            query= {category: category}
+            query= {category: category, price:{$gte: priceLowerLimit, $lte: priceUpperLimit }}
         }else{
-            query = {brandName: brandName, category:category}
+            query = {brandName: brandName, category:category, price:{$gte: priceLowerLimit, $lte: priceUpperLimit }}
+        }
+        let options={}
+        if(sorting!=='null'){
+            if(sorting==='priceAscending'){
+                options={
+                    sort: {price : 1}
+                }
+            }
+            else if(sorting==='priceDescending'){
+                options={
+                    sort: {price: -1}
+                }
+            }
+            else if(sorting==='latest'){
+                options={
+                    sort: { productCreationDateTime: -1 }
+                }
+            }
         }
         const page = parseInt(req.query.page) || 1;  
         const limit = parseInt(req.query.limit) || 6
         const skip = (page - 1) * limit;
-        const products =await productCollection.find(query).skip(skip).limit(limit).toArray();
-        const total = await productCollection.countDocuments(query);
+        const products =await productCollection.find(query,options).skip(skip).limit(limit).toArray();
+        const total = await productCollection.countDocuments(query,options);
         console.log(products)
         res.json({
             products,

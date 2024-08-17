@@ -146,7 +146,7 @@
   {
     "brandName": "Realme",
     "modelName": "Realme GT Neo 2",
-    "productImageUrl": "https://example.com/images/realme-gt-neo2.jpg",
+    "productImageUrl": "https://adminapi.applegadgetsbd.com/storage/media/large/3935-48518.jpg",
     "description": "Realme GT Neo 2 features a 6.62-inch Super AMOLED display, Snapdragon 870 processor, and a 5000mAh battery.",
     "price": 39999,
     "category": "Smartphone",
@@ -164,7 +164,7 @@
   {
     "brandName": "Oppo",
     "modelName": "Oppo F19 Pro",
-    "productImageUrl": "https://example.com/images/oppo-f19-pro.jpg",
+    "productImageUrl": "https://adminapi.applegadgetsbd.com/storage/media/large/3567-70207.jpg",
     "description": "Oppo F19 Pro comes with a 6.43-inch AMOLED display, MediaTek Helio P95 processor, and a 4310mAh battery.",
     "price": 29999,
     "category": "Smartphone",
@@ -182,7 +182,7 @@
   {
     "brandName": "Samsung",
     "modelName": "Galaxy M32",
-    "productImageUrl": "https://example.com/images/samsung-galaxy-m32.jpg",
+    "productImageUrl": "https://adminapi.applegadgetsbd.com/storage/media/large/2987-13960.jpg",
     "description": "Samsung Galaxy M32 features a 6.4-inch Super AMOLED display, Helio G80 processor, and a 6000mAh battery.",
     "price": 24999,
     "category": "Smartphone",
@@ -200,7 +200,7 @@
   {
     "brandName": "Apple",
     "modelName": "iPhone SE (2022)",
-    "productImageUrl": "https://example.com/images/iphone-se-2022.jpg",
+    "productImageUrl": "https://adminapi.applegadgetsbd.com/storage/media/large/5020-41819.jpg",
     "description": "The iPhone SE (2022) features a 4.7-inch Retina IPS LCD display, A15 Bionic chip, and a 1821mAh battery.",
     "price": 79000,
     "category": "Smartphone",
@@ -218,7 +218,7 @@
   {
     "brandName": "Xiaomi",
     "modelName": "Poco X4 Pro",
-    "productImageUrl": "https://example.com/images/poco-x4-pro.jpg",
+    "productImageUrl": "https://adminapi.applegadgetsbd.com/storage/media/large/4837-67628.jpg",
     "description": "Poco X4 Pro features a 6.67-inch AMOLED display, Snapdragon 695 processor, and a 5000mAh battery.",
     "price": 31999,
     "category": "Smartphone",
@@ -236,7 +236,7 @@
   {
     "brandName": "Realme",
     "modelName": "Realme Narzo 50A",
-    "productImageUrl": "https://example.com/images/realme-narzo-50a.jpg",
+    "productImageUrl": "https://adminapi.applegadgetsbd.com/storage/media/large/Realme-Narzo-50A-Oxygen-Blue-1069.jpg",
     "description": "Realme Narzo 50A features a 6.5-inch IPS LCD display, Helio G85 processor, and a 6000mAh battery.",
     "price": 17999,
     "category": "Smartphone",
@@ -254,7 +254,7 @@
   {
     "brandName": "Oppo",
     "modelName": "Oppo A74",
-    "productImageUrl": "https://example.com/images/oppo-a74.jpg",
+    "productImageUrl": "https://adminapi.applegadgetsbd.com/storage/media/large/Oppo-A76-Glowing-Black-2449.jpg",
     "description": "Oppo A74 features a 6.43-inch AMOLED display, Snapdragon 662 processor, and a 5000mAh battery.",
     "price": 27999,
     "category": "Smartphone",
@@ -272,7 +272,7 @@
   {
     "brandName": "Samsung",
     "modelName": "Galaxy Z Fold 4",
-    "productImageUrl": "https://example.com/images/samsung-galaxy-z-fold-4.jpg",
+    "productImageUrl": "https://adminapi.applegadgetsbd.com/storage/media/large/Phantom_Black-2405.jpg",
     "description": "Samsung Galaxy Z Fold 4 features a 7.6-inch Foldable Dynamic AMOLED display, Snapdragon 8+ Gen 1 processor, and a 4400mAh battery.",
     "price": 229999,
     "category": "Smartphone",
@@ -290,7 +290,7 @@
   {
     "brandName": "HP",
     "modelName": "HP Pavilion x360",
-    "productImageUrl": "https://example.com/images/hp-pavilion-x360.jpg",
+    "productImageUrl": "https://adminapi.applegadgetsbd.com/storage/media/large/HP-Pavilion-x360-14-dy2050wm-9899.jpg",
     "description": "HP Pavilion x360 features a 14-inch Full HD IPS touch display, Intel Core i5 11th Gen, and a 3-cell battery.",
     "price": 78000,
     "category": "Laptop",
@@ -309,7 +309,7 @@
   {
     "brandName": "Lenovo",
     "modelName": "Lenovo IdeaPad 5",
-    "productImageUrl": "https://example.com/images/lenovo-ideapad-5.jpg",
+    "productImageUrl": "https://www.startech.com.bd/image/cache/catalog/laptop/lenovo/ideapad-slim-1i-15igl7/ideapad-slim-1i-15igl7-01-500x500.webp",
     "description": "Lenovo IdeaPad 5 features a 15.6-inch Full HD display, AMD Ryzen 5 5500U, and a 57Wh battery.",
     "price": 70000,
     "category": "Laptop",
@@ -328,7 +328,7 @@
   {
     "brandName": "Acer",
     "modelName": "Acer Aspire 7",
-    "productImageUrl": "https://example.com/images/acer-aspire-7.jpg",
+    "productImageUrl": "https://www.startech.com.bd/image/cache/catalog/laptop/acer/a715-76g/a715-76g-500x500.webp",
     "description": "Acer Aspire 7 features a 15.6-inch Full HD IPS display, Intel Core i7 10th Gen, and a 4-cell battery.",
     "price": 95000,
     "category": "Laptop",
@@ -347,7 +347,7 @@
   {
     "brandName": "Apple",
     "modelName": "MacBook Air M2",
-    "productImageUrl": "https://example.com/images/macbook-air-m2.jpg",
+    "productImageUrl": "https://www.startech.com.bd/image/cache/catalog/laptop/apple/macbook-air-2024/macbook-air-13-inch-m3-silver/macbook-air-13-inch-m3-silver-01-500x500.webp",
     "description": "Apple MacBook Air M2 features a 13.6-inch Liquid Retina display, Apple M2 chip, and a 52.6Wh battery.",
     "price": 160000,
     "category": "Laptop",
@@ -366,7 +366,7 @@
   {
     "brandName": "Asus",
     "modelName": "Asus ROG Zephyrus G14",
-    "productImageUrl": "https://example.com/images/asus-rog-zephyrus-g14.jpg",
+    "productImageUrl": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/rog-zephyrus-g14-ga403uv/rog-zephyrus-g14-ga403uv-02-500x500.webp",
     "description": "Asus ROG Zephyrus G14 features a 14-inch QHD display, AMD Ryzen 9 5900HS, and a 76Wh battery.",
     "price": 165000,
     "category": "Laptop",
@@ -385,7 +385,7 @@
   {
     "brandName": "HP",
     "modelName": "HP Spectre x360",
-    "productImageUrl": "https://example.com/images/hp-spectre-x360.jpg",
+    "productImageUrl": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/14-e2027tu/14-e2027tu-01-500x500.webp",
     "description": "HP Spectre x360 features a 13.3-inch 4K OLED touch display, Intel Core i7 12th Gen, and a 4-cell battery.",
     "price": 175000,
     "category": "Laptop",
@@ -404,7 +404,7 @@
   {
     "brandName": "Lenovo",
     "modelName": "Lenovo Legion 5",
-    "productImageUrl": "https://example.com/images/lenovo-legion-5.jpg",
+    "productImageUrl": "https://www.startech.com.bd/image/cache/catalog/laptop/lenovo/legion-5i/legion-5i-01-500x500.webp",
     "description": "Lenovo Legion 5 features a 15.6-inch Full HD display, AMD Ryzen 7 5800H, and an 80Wh battery.",
     "price": 135000,
     "category": "Laptop",
@@ -423,7 +423,7 @@
   {
     "brandName": "Acer",
     "modelName": "Acer Swift 3",
-    "productImageUrl": "https://example.com/images/acer-swift-3.jpg",
+    "productImageUrl": "https://www.startech.com.bd/image/cache/catalog/laptop/acer/swift-go-14-sfg14-41-r3fa/swift-go-14-sfg14-41-r3fa-01-500x500.webp",
     "description": "Acer Swift 3 features a 14-inch Full HD IPS display, Intel Core i5 11th Gen, and a 4-cell battery.",
     "price": 65000,
     "category": "Laptop",
@@ -442,7 +442,7 @@
   {
     "brandName": "Apple",
     "modelName": "MacBook Pro M2",
-    "productImageUrl": "https://example.com/images/macbook-pro-m2.jpg",
+    "productImageUrl": "https://www.startech.com.bd/image/cache/catalog/laptop/apple/macbook-pro-16-inch-m3-pro-black/macbook-pro-16-inch-m3-pro-black-01-500x500.webp",
     "description": "Apple MacBook Pro M2 features a 14-inch Liquid Retina XDR display, Apple M2 chip, and a 70Wh battery.",
     "price": 230000,
     "category": "Laptop",
@@ -461,7 +461,7 @@
   {
     "brandName": "Asus",
     "modelName": "Asus VivoBook S14",
-    "productImageUrl": "https://example.com/images/asus-vivobook-s14.jpg",
+    "productImageUrl": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/vivobook-s-14-flip-tp3402va/vivobook-s-14-flip-tp3402va-01-500x500.webp",
     "description": "Asus VivoBook S14 features a 14-inch Full HD display, Intel Core i5 12th Gen, and a 3-cell battery.",
     "price": 88000,
     "category": "Laptop",
@@ -480,7 +480,7 @@
   {
     "brandName": "HP",
     "modelName": "HP Envy 13",
-    "productImageUrl": "https://example.com/images/hp-envy-13.jpg",
+    "productImageUrl": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/envy-x360-2-in-1-14-fc0121tu/envy-x360-2-in-1-14-fc0121tu-03-500x500.webp",
     "description": "HP Envy 13 features a 13.3-inch Full HD IPS display, Intel Core i7 11th Gen, and a 4-cell battery.",
     "price": 115000,
     "category": "Laptop",
@@ -499,7 +499,7 @@
   {
     "brandName": "Lenovo",
     "modelName": "Lenovo Yoga 7i",
-    "productImageUrl": "https://example.com/images/lenovo-yoga-7i.jpg",
+    "productImageUrl": "https://www.startech.com.bd/image/cache/catalog/laptop/lenovo/yoga-pro-7-14irh8/yoga-pro-7-14irh8-01-500x500.webp",
     "description": "Lenovo Yoga 7i features a 14-inch Full HD touch display, Intel Core i5 11th Gen, and a 4-cell battery.",
     "price": 92000,
     "category": "Laptop",
@@ -518,7 +518,7 @@
   {
     "brandName": "Amazfit",
     "modelName": "Amazfit GTR 3 Pro",
-    "productImageUrl": "https://example.com/images/amazfit-gtr-3-pro.jpg",
+    "productImageUrl": "https://www.startech.com.bd/image/cache/catalog/smart-watch/xiaomi/amazfit-gtr3-pro/xiaomi-amazfit-gtr-3-pro-smartwatch-02-500x500.jpg",
     "description": "Amazfit GTR 3 Pro features a 1.45-inch AMOLED display, 450mAh battery, and 5 ATM water resistance.",
     "price": 18500,
     "category": "Smartwatch",
@@ -536,7 +536,7 @@
   {
     "brandName": "Apple",
     "modelName": "Apple Watch Series 8",
-    "productImageUrl": "https://example.com/images/apple-watch-series-8.jpg",
+    "productImageUrl": "https://www.startech.com.bd/image/cache/catalog/smart-watch/apple/series-8/apple-watch-series-8-01-500x500.webp",
     "description": "Apple Watch Series 8 features a 1.9-inch LTPO OLED display, 309mAh battery, and IP6X water resistance.",
     "price": 55000,
     "category": "Smartwatch",
@@ -554,7 +554,7 @@
   {
     "brandName": "Samsung",
     "modelName": "Samsung Galaxy Watch 5",
-    "productImageUrl": "https://example.com/images/samsung-galaxy-watch-5.jpg",
+    "productImageUrl": "https://www.startech.com.bd/image/cache/catalog/smart-watch/samsung/galaxy-watch5-44mm/galaxy-watch5-44mm-01-500x500.webp",
     "description": "Samsung Galaxy Watch 5 features a 1.4-inch Super AMOLED display, 410mAh battery, and 5 ATM water resistance.",
     "price": 32000,
     "category": "Smartwatch",
@@ -576,7 +576,7 @@
   {
     "brandName": "Huawei",
     "modelName": "Huawei Watch GT 3",
-    "productImageUrl": "https://example.com/images/huawei-watch-gt-3.jpg",
+    "productImageUrl": "https://www.startech.com.bd/image/cache/catalog/smart-watch/huawei/watch-gt-3-active/watch-gt-3-active-01-500x500.jpg",
     "description": "Huawei Watch GT 3 features a 1.43-inch AMOLED display, 455mAh battery, and 5 ATM water resistance.",
     "price": 26000,
     "category": "Smartwatch",
@@ -595,7 +595,7 @@
   {
     "brandName": "Amazfit",
     "modelName": "Amazfit Bip U Pro",
-    "productImageUrl": "https://example.com/images/amazfit-bip-u-pro.jpg",
+    "productImageUrl": "https://www.startech.com.bd/image/cache/catalog/smartwatch/amazfit/bip-5-unity/bip-5-unity-02-500x500.webp",
     "description": "Amazfit Bip U Pro features a 1.43-inch TFT display, 230mAh battery, and 5 ATM water resistance.",
     "price": 4500,
     "category": "Smartwatch",
@@ -618,7 +618,7 @@
   {
     "brandName": "Mibro",
     "modelName": "Mibro Air",
-    "productImageUrl": "https://example.com/images/mibro-air.jpg",
+    "productImageUrl": "https://www.startech.com.bd/image/cache/catalog/smart-watch/mibro/mibro-c3/mibro-c3-01-500x500.webp",
     "description": "Mibro Air features a 1.28-inch TFT display, 200mAh battery, and IP68 water resistance.",
     "price": 3200,
     "category": "Smartwatch",
@@ -634,9 +634,9 @@
     }
   },
   {
-    "brandName": "Fitbit",
+    "brandName": "Amazfit",
     "modelName": "Fitbit Versa 3",
-    "productImageUrl": "https://example.com/images/fitbit-versa-3.jpg",
+    "productImageUrl": "https://www.startech.com.bd/image/cache/catalog/smartwatch/amazfit/pop-3s/pop-3s-500x500.webp",
     "description": "Fitbit Versa 3 features a 1.58-inch AMOLED display, 300mAh battery, and 50M water resistance.",
     "price": 23000,
     "category": "Smartwatch",
@@ -657,9 +657,9 @@
     }
   },
   {
-    "brandName": "Garmin",
+    "brandName": "Huawei",
     "modelName": "Garmin Venu 2",
-    "productImageUrl": "https://example.com/images/garmin-venu-2.jpg",
+    "productImageUrl": "https://www.startech.com.bd/image/cache/catalog/smart-watch/huawei/watch-gt-4/watch-gt4-brown-01-500x500.webp",
     "description": "Garmin Venu 2 features a 1.3-inch AMOLED display, 416mAh battery, and 5 ATM water resistance.",
     "price": 45000,
     "category": "Smartwatch",
@@ -682,7 +682,7 @@
   {
     "brandName": "Huawei",
     "modelName": "Huawei Watch Fit",
-    "productImageUrl": "https://example.com/images/huawei-watch-fit.jpg",
+    "productImageUrl": "https://www.startech.com.bd/image/cache/catalog/smart-watch/huawei/watch-fit-3/watch-fit-3-black-500x500.webp",
     "description": "Huawei Watch Fit features a 1.64-inch AMOLED display, 180mAh battery, and 5 ATM water resistance.",
     "price": 9500,
     "category": "Smartwatch",
@@ -700,7 +700,7 @@
   {
     "brandName": "Mibro",
     "modelName": "Mibro Lite",
-    "productImageUrl": "https://example.com/images/mibro-lite.jpg",
+    "productImageUrl": "https://www.startech.com.bd/image/cache/catalog/smart-watch/mibro/watch-lite2/watch-lite2-brown-01-500x500.webp",
     "description": "Mibro Lite features a 1.3-inch AMOLED display, 230mAh battery, and IP68 water resistance.",
     "price": 4000,
     "category": "Smartwatch",
@@ -716,9 +716,9 @@
     }
   },
   {
-    "brandName": "Garmin",
+    "brandName": "Samsung",
     "modelName": "Garmin Forerunner 245",
-    "productImageUrl": "https://example.com/images/garmin-forerunner-245.jpg",
+    "productImageUrl": "https://www.startech.com.bd/image/cache/catalog/watch/samsung/galaxy-watch4/galaxy-watch4-44mm-white-01-500x500.jpg",
     "description": "Garmin Forerunner 245 features a 1.2-inch MIP display, 300mAh battery, and 5 ATM water resistance.",
     "price": 37000,
     "category": "Smartwatch",
@@ -734,9 +734,9 @@
     }
   },
   {
-    "brandName": "Fitbit",
+    "brandName": "Apple",
     "modelName": "Fitbit Charge 5",
-    "productImageUrl": "https://example.com/images/fitbit-charge-5.jpg",
+    "productImageUrl": "https://www.startech.com.bd/image/cache/catalog/smart-watch/apple/series-8/apple-watch-series-8-45mm-silver-01-500x500.webp",
     "description": "Fitbit Charge 5 features a 1.04-inch AMOLED display, 168mAh battery, and 50M water resistance.",
     "price": 15000,
     "category": "Smartwatch",
